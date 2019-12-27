@@ -16,6 +16,4 @@ At the moment I will not add anything here, because the use is not difficult.
 
 Created by – TarwzDev/MarshallScript - 2019
 
-Distributed under license XYZ. See `LICENSE` for more information.
-
 [https://github.com/TawrzDev](https://github.com/TarwzDev)
