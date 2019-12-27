@@ -9,7 +9,7 @@ At the moment I will not add anything here, because the use is not difficult.
 
 ## Release History
 
-* 1.0.0
+* 1.0.0.0
     * Recently released version for the public.
     
 ## Functional in game
