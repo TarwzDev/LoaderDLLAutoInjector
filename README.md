@@ -11,6 +11,11 @@ At the moment I will not add anything here, because the use is not difficult.
 
 * 1.0.0
     * Recently released version for the public.
+    
+## Functional in game
+
+* Counter Strike: Global Offensive 
+> Not tested in other games.
 
 ## Meta
 
